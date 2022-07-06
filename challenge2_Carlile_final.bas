@@ -2,7 +2,7 @@ Sub Stocks()
 
 'select first worksheet
 Dim CurrentWs As Worksheet
-'store as true/false
+'store results table and headers as true/false
 Dim Results_Sheet As Boolean
 Need_Summary_Table_Header = True
 
